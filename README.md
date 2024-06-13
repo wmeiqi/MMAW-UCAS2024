@@ -4,7 +4,11 @@ In this work, we introduce a novel multimodal benchmark, MMAW-UCAS2024, accompan
 ![Introduction](https://github.com/wmeiqi/MMAW-UCAS2024/assets/35912099/ac3a4cc4-fb19-495f-8984-6b84bbe13877)
 
 # Demo
-https://github.com/wmeiqi/MMAW-UCAS2024/assets/35912099/4e055224-f648-4ee6-9ac3-b7b21165a6f1
+
+
+https://github.com/wmeiqi/MMAW-UCAS2024/assets/35912099/eb47e7dc-aae0-4536-a153-e6a93d28d1ca
+
+
 
 ![Dataset Examples](https://github.com/wmeiqi/MMAW-UCAS2024/assets/35912099/cbd9fbfa-aecd-432f-97c1-0a8eb8900689)
 
