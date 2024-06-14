@@ -3,12 +3,13 @@
 
 In this work, we introduce a novel multimodal benchmark, MMAW-UCAS2024, accompanied by an automated strategy for hand keypoint annotation to label hand poses in each frame. To ensure the dataset's generalizability to outdoor settings, we have incorporated outdoor scene data. We anticipate that the inclusion of depth information will advance research in air-writing and stereo vision. The MMAW-UCAS2024 benchmark includes 221 participants, 103,188 videos, and 8,849,131 RGB video and depth frames with character and hand pose annotations.
 
-![compare_00](https://github.com/wmeiqi/MMAW-UCAS2024/assets/35912099/64cef10c-c853-4d37-ac75-c9a30dc03aa5)
+
 
 # MMAW-UCAS2024 
+
+![compare_00](https://github.com/wmeiqi/MMAW-UCAS2024/assets/35912099/64cef10c-c853-4d37-ac75-c9a30dc03aa5)
+
 ## Demo
-
-
 
 https://github.com/wmeiqi/MMAW-UCAS2024/assets/35912099/6b78ae39-d286-4b66-9a74-0bd163c524be
 
